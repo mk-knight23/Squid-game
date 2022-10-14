@@ -1,8 +1,15 @@
 # Squid Game
-## Red Light Green Light Start STop
-1st comment from me
+## Red Light Green Light Start Stop
 
-Simple game based of on a Most popular Korean Netfilx Series called "Squid Game".
+
+Hello Coders and Gamers !!
+
+This is a game which is designed to emulate Red Light-Green Light from the popular Netflix Series, Squid Game.
+
+In this game you have two players. They can be controlled using UP-DOWN and W-S. In order to win you need to get both across safely.
+
+Skills required : HTML, Javascript, CSS
+Good Luck !
 
 ## https://mk-knight23.github.io/Squid-game
 
