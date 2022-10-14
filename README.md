@@ -1,5 +1,5 @@
 # Squid Game
-## Red Light Green Light
+## Red Light Green Light Start STop
 
 Simple game based of on a Most popular Korean Netfilx Series called "Squid Game".
 
